@@ -1,0 +1,5 @@
+body { font-family: Arial; margin: 20px; }
+.log-entry { padding: 5px; margin: 5px 0; border-left: 3px solid; }
+.log-entry.INFO { border-color: blue; }
+.log-entry.WARN { border-color: orange; }
+.log-entry.CRIT { border-color: red; }
